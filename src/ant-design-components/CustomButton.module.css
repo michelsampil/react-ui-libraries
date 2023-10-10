@@ -1,0 +1,7 @@
+.custom-button {
+  border: solid greenyellow 4px;
+}
+
+.custom-button:hover {
+  border: solid greenyellow 4px !important;
+}
