@@ -13,6 +13,7 @@ import { MUISectionWithTheme } from "./mui-components/MUISectionWithTheme";
 function App() {
   return (
     <div className="container">
+      <h1> Example </h1>
       <h2> MUI </h2>
       <ButtonMui startIcon={<AcUnitIcon />} />
       <Input />
